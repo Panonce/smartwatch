@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "9100724744",
+    "firebase_url": "https://smartwatch-96185-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartwatch-96185",
+    "storage_bucket": "smartwatch-96185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9100724744:android:1261616bb832f960159fbd",
+        "android_client_info": {
+          "package_name": "com.example.smart_watch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9100724744-nd539s94hlp47euulp0cqcvk7i5cvnor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIOCr7ohR57Kgdq4BcK3cF_pjcpuUySYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9100724744-nd539s94hlp47euulp0cqcvk7i5cvnor.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "9100724744-05th2289g581p9ashj9ohmc8r8b4alh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartWatch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
